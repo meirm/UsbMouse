@@ -31,7 +31,9 @@ Hardware
 Pinouts
 =======
 Connect D- to Pin 4 through 68 Ohm resistor.
+
 Connect D- to Pin 5 through 2.2KOhm resistor.
+
 Connect D+ to Pin 2 through 68 Ohm resistor.
 
-virtual-usb-keyboard-schematic.jpg
+View virtual-usb-keyboard-schematic.jpg
